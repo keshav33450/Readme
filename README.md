@@ -5,15 +5,14 @@
 
 ## 🚀 Who Am I?
 ✅ **Keshav Raja**  
-💻 Frontend Developer & Web Designer  
-🌱 Learning React + UI/UX  
+💻 Fullstack Developer & UI/UX Developer  
 ⚡ Love building modern web pages  
 
 ---
 
 ## 🌐 Portfolio
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK" target="_blank">
+  <a href="https://keshav33450.github.io/keshavportfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00C9FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
