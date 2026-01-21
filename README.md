@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keshav Raja</h1>
-<h3 align="center">Frontend Developer | Web Designer | Passionate Learner 🚀</h3>
+<h3 align="center">Fullstack Developer | Web Designer | Passionate Learner 🚀</h3>
 
 ---
 
