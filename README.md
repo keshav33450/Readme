@@ -12,7 +12,7 @@
 
 ## 🌐 Portfolio
 <p align="center">
-  <a href="https://keshav33450.github.io/keshavportfolio/" target="_blank">
+  <a href="https://lnkd.in/gEYDABcs" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00C9FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
