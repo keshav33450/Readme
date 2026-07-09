@@ -4,13 +4,15 @@
 ---
 
 ## 🚀 Who Am I?
+
 ✅ **Keshav Raja**  
 💻 Fullstack Developer & UI/UX Developer  
-⚡ Love building modern web pages  
+⚡ Love building modern, visually polished web experiences  
 
 ---
 
 ## 🌐 Portfolio
+
 <p align="center">
   <a href="https://lnkd.in/gEYDABcs" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00C9FF?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -20,13 +22,15 @@
 ---
 
 ## 🛠 Tech I Use
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,fastapi,python,supabase,postgres,git,github" />
 </p>
 
 ---
 
 ## 📈 GitHub Overview
+
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=keshav33450&show_icons=true&count_private=true&bg_color=00000000&text_color=777" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav33450&layout=compact&bg_color=00000000&text_color=777" />
@@ -35,11 +39,12 @@
 ---
 
 ## 🌍 Connect With Me
+
 <p align="center">
   <a href="https://github.com/keshav33450" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="www.linkedin.com/in/keshavraja/" target="_blank">
+  <a href="https://www.linkedin.com/in/keshavraja/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:kkeshavraja@gmail.com" target="_blank">
@@ -48,15 +53,15 @@
 </p>
 
 ---
+
 <div align="center">
- <picture>
-    <source media="(prefers-color-scheme: dark)" 
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/keshav33450/keshav33450/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" 
+    <source media="(prefers-color-scheme: light)"
       srcset="https://raw.githubusercontent.com/keshav33450/keshav33450/output/github-contribution-grid-snake.svg" />
-    <img 
-      alt="GitHub Contribution Snake Animation" 
-      src="https://raw.githubusercontent.com/keshav33450/keshav33450/output/github-contribution-grid-snake.svg" 
-    />
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/keshav33450/keshav33450/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
