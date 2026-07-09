@@ -32,10 +32,9 @@
 ## 📈 GitHub Overview
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=keshav33450&show_icons=true&count_private=true&bg_color=00000000&text_color=777" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav33450&layout=compact&bg_color=00000000&text_color=777" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=keshav33450&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=58a6ff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshav33450&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" />
 </p>
-
 ---
 
 ## 🌍 Connect With Me
